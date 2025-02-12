@@ -29,7 +29,7 @@ This repository contains a Python implementation using **backtracking** to solve
 ## **How to Run the Code**  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/sowjkallepalli/N-Queen.git
+   git clone https://github.com/sowjkallepalli/N-Queens.git
    cd n-queens-solver
    ```
 2. Run the Python script:  
