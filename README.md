@@ -1,8 +1,6 @@
-# N-Queen
-Solving N queen problem using backtracking 
-
 # **N-Queens Problem Solver (Backtracking)**
-**Author:** Kallepalli Lakshmi Sowjanya  
+**Author:** Kallepalli Lakshmi Sowjanya 
+**Approach:** Solving N queen problem using backtracking 
 
 ## **Overview**  
 The **N-Queens problem** is a classic combinatorial optimization problem in which the goal is to place `N` queens on an `N × N` chessboard so that no two queens threaten each other. This means:  
@@ -31,7 +29,7 @@ This repository contains a Python implementation using **backtracking** to solve
 ## **How to Run the Code**  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/n-queens-solver.git
+   git clone https://github.com/sowjkallepalli/N-Queen.git
    cd n-queens-solver
    ```
 2. Run the Python script:  
